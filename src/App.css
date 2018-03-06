@@ -1,0 +1,11 @@
+.container {
+  margin: auto;
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.page-header {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-top: 1px;
+}
